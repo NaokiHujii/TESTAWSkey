@@ -1,1 +1,1 @@
-AWSkey="AKIAU7XJ5EXAMPLE6789"
+AWSkey="dummy"
